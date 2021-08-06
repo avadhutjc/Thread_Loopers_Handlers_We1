@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.masai.a1085aug_thread_loopers_handlers_we1",
+  "variantName": "debug",
+  "elements": []
+}
