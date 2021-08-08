@@ -1,3 +1,5 @@
+com/masai/a1085aug_thread_loopers_handlers_we1/BuildConfig.java
+ com.masai.a1085aug_thread_loopers_handlers_we1.BuildConfig
 com/masai/a1085aug_thread_loopers_handlers_we1/WorkerThread.java
  com.masai.a1085aug_thread_loopers_handlers_we1.WorkerThread
 com/masai/a1085aug_thread_loopers_handlers_we1/MainActivity.java
@@ -6,5 +8,3 @@ com/masai/a1085aug_thread_loopers_handlers_we1/MainActivity.java
  com.masai.a1085aug_thread_loopers_handlers_we1.MainActivity$2
  com.masai.a1085aug_thread_loopers_handlers_we1.MainActivity$3
  com.masai.a1085aug_thread_loopers_handlers_we1.MainActivity$4
-com/masai/a1085aug_thread_loopers_handlers_we1/BuildConfig.java
- com.masai.a1085aug_thread_loopers_handlers_we1.BuildConfig
